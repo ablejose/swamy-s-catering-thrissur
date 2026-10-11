@@ -1,0 +1,52 @@
+{
+  "slug": "swamy-s-catering-thrissur",
+  "name": "Swamy's Catering",
+  "shortName": "Swamy's",
+  "descriptor": "Catering Services",
+  "address": "Pallath Ln, Cheroor, Thrissur, Keralam 680008",
+  "area": "Cheroor",
+  "city": "Thrissur",
+  "district": "Thrissur",
+  "region": "Kerala",
+  "postalCode": "680008",
+  "geo": {
+    "lat": 10.5464422,
+    "lng": 76.2297801
+  },
+  "mapsLink": "https://maps.google.com/?cid=8684129423346516001",
+  "phone": "+91 94477 08768",
+  "whatsapp": "919447708768",
+  "hours": "Open 9 am – 8 pm · all days",
+  "opens": "09:00",
+  "closes": "20:00",
+  "rating": 4.9,
+  "reviewCount": 14,
+  "reviews": [
+    {
+      "name": "Beena Sivadas",
+      "rating": 5,
+      "quote": "Super tasty food, I extremely like it 😋😋"
+    },
+    {
+      "name": "sindhu narayan",
+      "rating": 5,
+      "quote": "Delicious food and very good service❤"
+    },
+    {
+      "name": "vijayasree prasoon",
+      "rating": 5,
+      "quote": "Very good food and very good service 😊😊"
+    },
+    {
+      "name": "Rajalakshmi Manazhi",
+      "rating": 5,
+      "quote": "very very tasty. Punctual. quality assured"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp"
+  ],
+  "url": "https://swamy-s-catering-thrissur.vercel.app"
+}
